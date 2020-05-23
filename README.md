@@ -10,6 +10,6 @@ You need to install [conda](https://docs.conda.io/projects/conda/en/latest/user-
 Then you should `cd <repo_path>` on a terminal and run:
 ```bash
 conda env create -f environment.yml # installs project dependencies
-conda activate vehicle_recognizer # activate environment
+conda activate vehicle_recognizer # activates environment
 jupyter notebook # opens notebook
 ```
